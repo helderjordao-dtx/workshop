@@ -23,7 +23,7 @@ Types of changes:
 --------------------------------------------------------------------------------------------------
 
 
-## [0.0.2] (YYYY-MM-DD) 
+## [0.2.0] (YYYY-MM-DD) 
 
 Provide a description of the focus of the team for the sprint.
 
@@ -32,7 +32,7 @@ Example: `In this sprint we focused on fixing/enhancing previously implemented f
 ### Added
  * workshop-593363300 - Create a `RELEASE-NOTEs.md` - Create a release notes file to capture precisely what notable changes have been made between each release of the project.
  
- ## [0.0.1] (YYYY-MM-DD) 
+ ## [0.1.0] (YYYY-MM-DD) 
 
 In this sprint the team focused on providing guidelines to standardying branches and commits
 
