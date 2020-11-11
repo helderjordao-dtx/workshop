@@ -1,5 +1,9 @@
 ### Coding Guidelines
 
+Branches representing a new features must have as parent branch the `develop` branch and have a wrike taks associated to it.
+
+![Write Task ID](/.github/DOCS/wrike_task_ID.png?raw=true "Optional Title")
+
 - Branches follow the strategy:
   - `feature/projetcName-wrikeTaskID` - for the implementation of a new feature based on a wrike task
   - `bugfix/projectName-wrikeTaskID` - for the fixing of a bug exi[s]ting within a wrike task
