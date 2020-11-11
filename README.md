@@ -1,3 +1,3 @@
 # workshop
 
-Add more details to project descript[i]on.
+- This project is a pilot to describe development workflow.
