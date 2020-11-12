@@ -6,8 +6,16 @@ Branches representing a new features must have as parent branch the `develop` br
 
 - Branches follow the strategy:
   - `feature/projetcName-wrikeTaskID` - for the implementation of a new feature based on a wrike task
+    - example: `feature/workshop-592699324`
   - `bugfix/projectName-wrikeTaskID` - for the fixing of a bug exi[s]ting within a wrike task
-  - example: `feature/workshop-592699324`
+    - example: `bugfix/workshop-592699324`
+  - `hotfix/projectName-wrikeTaskID` - for the fixing of a bug exi[s]ting within a wrike task
+    - example: `hotfix/workshop-592699324`
+  - `release/version` - for the closing a release of exi[s]ting within a wrike task
+    - example: `release/0.1.0`
+  - `tag` - for the tagging a version of a exi[s]ting within a wrike task
+    - example: `v0.1.0`
+  
 
 - Commits follow the strategy:
   - `projectName-taskID #time duration description` - for a commit relative to a wrike task
