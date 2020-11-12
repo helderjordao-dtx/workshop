@@ -18,7 +18,7 @@
 
 ### Project description
 
-Provide a description of the scope of the project and its goal
+Provide a description of the scope of the project and its goal.
 
 #### Development server
 
