@@ -6,13 +6,13 @@
 
 Provide a description of the scope of the project and its goal
 
+#### Development server
+
+Provide a development server, if applyable.
+
 #### Staging server
 
 Provide a staging server, if applyable
-
-#### Production server
-
-Provide a production server, if applyable.
 
 ### API Documentation
 
