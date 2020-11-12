@@ -1,4 +1,4 @@
-# DTX-Colab
+# DTx-Colab
 
 ## Project Name
 
